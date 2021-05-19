@@ -1,0 +1,9 @@
+{
+  "git.ignoreLimitWarning": true,
+  "files.associations": {
+    "__locale": "cpp",
+    "functional": "cpp",
+    "vector": "cpp",
+    "stack": "cpp"
+  }
+}
